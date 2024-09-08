@@ -1,4 +1,4 @@
-//314CA Pal Roberto Giulio
+//Copyright Pal Roberto Giulio 2024
 
 #include "func.h"
 
